@@ -1,4 +1,4 @@
-# DS100: Principle and Technology of Data Science
+# DS100: Principles and Technology of Data Science
 
 > **Description**
 
